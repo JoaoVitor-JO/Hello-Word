@@ -1,2 +1,4 @@
-# Hello-Word
-Primeiro projeto com git
+# Hello, Word!
+Primeiro repositorio com git
+
+
